@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e4d6e,100:00b4d8&height=200&section=header&text=Ankit%20Kashyap&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Data%20Scientist%20%7C%20Math%20%26%20Environmental%20Science&descAlignY=58&descSize=16&descColor=90e0ef"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=100&lines=👋+Hi,+I'm+Ankit+Kashyap;🚀+Future+Data+Analyst;📊+Turning+Data+into+Insights" />
+
+</div>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&multiline=false&width=600&lines=Aspiring+Data+Analyst+%26+Data+Scientist;Python+%7C+SQL+%7C+R+%7C+Power+BI+%7C+Tableau;Turning+Raw+Data+into+Actionable+Insights;Mathematical+Sciences+%2B+Environmental+Data" alt="Typing SVG" />
