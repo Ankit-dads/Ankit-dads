@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:0077B6&height=200&section=header&text=Ankit%20Kashyap&fontSize=40&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=55&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=120&lines=Ankit+Kashyap" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=90E0EF&center=true&vCenter=true&width=800&height=60&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" />
 
@@ -19,12 +19,16 @@
 
 </div>
 
+
 ---
 
 ## 🌊 About Me
 
+
+
 ```python
-ankit = {
+
+Ankit = {
     "name"        : "Ankit Kashyap",
     "location"    : "Delhi, India 🇮🇳",
     "education"   : ["BSc Mathematical Sciences - Delhi University",
@@ -146,7 +150,7 @@ ankit = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8)](https://www.linkedin.com/in/ankit-kashyap-0088b339b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8)](https://www.linkedin.com/in/ankit-kashyapp)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8)](mailto:ankitkashyap.data@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8)](https://github.com/Ankit-dads)
 
