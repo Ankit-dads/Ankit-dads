@@ -148,13 +148,21 @@ Ankit = {
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/ankit-kashyapp">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+  <a href="mailto:ankitkashyap.data@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
+  </a>
+  <a href="https://github.com/Ankit-dads">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00b4d8)](https://www.linkedin.com/in/ankit-kashyapp)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00b4d8)](mailto:ankitkashyap.data@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00b4d8)](https://github.com/Ankit-dads)
-
-</div>
+<p align="center">
+  LinkedIn • Email • GitHub
+</p>
 
 ---
 
