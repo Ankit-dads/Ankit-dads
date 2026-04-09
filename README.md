@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&duration=2500&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&height=100&lines=👋+Hi,+I'm+Ankit+Kashyap;🚀+Future+Data+Analyst;📊+Turning+Data+into+Insights" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:0077B6&height=200&section=header&text=Ankit%20Kashyap&fontSize=40&fontColor=ffffff"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=90E0EF&center=true&vCenter=true&width=800&height=60&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI" />
+
+</div>
 
 </div>
 
