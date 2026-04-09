@@ -22,7 +22,7 @@
 ankit = {
     "name"        : "Ankit Kashyap",
     "location"    : "Delhi, India 🇮🇳",
-    "education"   : ["BSc Mathematical Statistics - Delhi University",
+    "education"   : ["BSc Mathematical Sciences - Delhi University",
                      "MSc Environmental Science - IGNOU"],
     "role"        : "Aspiring Data Analyst & Data Scientist",
     "skills"      : ["Python", "SQL", "R", "Excel", "Power BI", "Tableau"],
