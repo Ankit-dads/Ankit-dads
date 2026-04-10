@@ -29,16 +29,16 @@
 ```python
 
 Ankit = {
-    "name"        : "Ankit Kashyap Loves trading ",
-    "location"    : "Delhi, India 🇮🇳",
-    "education"   : ["BSc Mathematical Sciences - Delhi University",
+    "Name"        : "Ankit Kashyap",
+    "Location"    : "Delhi, India 🇮🇳",
+    "Education"   : ["BSc Mathematical Sciences - Delhi University",
                      "MSc Environmental Science - IGNOU"],
-    "role"        : "Aspiring Data Analyst & Data Scientist",
-    "skills"      : ["Python", "SQL", "R", "Excel", "Power BI", "Tableau"],
-    "interests"   : ["Data Analysis", "EDA", "Data Visualization",
+    "Role"        : "Aspiring Data Analyst & Data Scientist",
+    "Skills"      : ["Python", "SQL", "R", "Excel", "Power BI", "Tableau"],
+    "Interests"   : ["Data Analysis", "EDA", "Data Visualization",
                      "Machine Learning"],
-    "looking_for" : "Entry-level Data Analyst / Data Scientist roles 🚀",
-    "fun_fact"    : "I bridge Math + Statistics through the power of Data! 📊"
+    "Looking_for" : "Entry-level Data Analyst / Data Scientist roles 🚀",
+    "Fun_fact"    : "I bridge Math + Statistics through the power of Data! 📊"
 }
 ```
 
