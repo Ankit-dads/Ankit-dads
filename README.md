@@ -29,7 +29,7 @@
 ```python
 
 Ankit = {
-    "name"        : "Ankit Kashyap",
+    "name"        : "Ankit Kashyap Loves trading ",
     "location"    : "Delhi, India 🇮🇳",
     "education"   : ["BSc Mathematical Sciences - Delhi University",
                      "MSc Environmental Science - IGNOU"],
