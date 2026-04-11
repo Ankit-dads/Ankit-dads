@@ -50,6 +50,7 @@ Ankit = {
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00b4d8)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00b4d8)
 
 ### 📊 Data & Visualization Tools
 ![Power BI](https://img.shields.io/badge/PowerBI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
