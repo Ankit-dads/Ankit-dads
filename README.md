@@ -34,7 +34,7 @@ Ankit = {
     "Education"   : ["BSc Mathematical Sciences - Delhi University",
                      "MSc Environmental Science - IGNOU"],
     "Role"        : "Aspiring Data Analyst & Data Scientist",
-    "Skills"      : ["Python", "SQL", "R", "Excel", "Power BI", "Tableau"],
+    "Skills"      : ["Python", "SQL", "Excel", "Power BI", "Tableau"],
     "Interests"   : ["Data Analysis", "EDA", "Data Visualization",
                      "Machine Learning"],
     "Looking_for" : "Entry-level Data Analyst / Data Scientist roles 🚀",
