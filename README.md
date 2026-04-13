@@ -155,7 +155,7 @@ Ankit = {
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
   </a>
   <a href="https://github.com/Ankit-dads">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+   <img src="https://skillicons.dev/icons?i=github" height="40"/>
   </a>
 </p>
 
