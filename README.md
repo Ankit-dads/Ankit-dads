@@ -168,7 +168,7 @@ Ankit = {
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0e4d6e,100:0d1117&height=120&section=footer"/>
 
-**⭐ If you like my profile, consider giving a star to my repositories!**
+**⭐ If you like my Profile, consider giving a star to my repositories!**
 
 </div>
 
