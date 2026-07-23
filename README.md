@@ -35,7 +35,7 @@ Ankit = {
     "Skills"      : ["Python", "SQL", "Excel", "Power BI", "Tableau"],
     "Interests"   : ["Data Analysis", "EDA", "Data Visualization",
                      "Machine Learning","Deep Learning"],
-    "Looking_for" : "Entry-level Data Analyst / Data Scientist roles 🚀",
+    "Looking_for" : "Entry-level Data Analyst / Data Scientist roles ",
     "Fun_fact"    : "I bridge Mathematics + Statistics through the power of Data! 📊"
 }
 ```
